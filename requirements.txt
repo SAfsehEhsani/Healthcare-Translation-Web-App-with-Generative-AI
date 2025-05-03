@@ -1,0 +1,9 @@
+streamlit
+groq
+gtts
+python-dotenv
+google-cloud-speech
+streamlit-mic-recorder
+faster whisper
+# For real VTT input (not implemented in this prototype): google-cloud-speech
+# For real VTT input (not implemented in this prototype): PyAudio # Or similar for audio capture
