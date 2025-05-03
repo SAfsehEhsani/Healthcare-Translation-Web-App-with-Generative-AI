@@ -2,8 +2,10 @@ streamlit
 groq
 gtts
 python-dotenv
-google-cloud-speech
 streamlit-mic-recorder
-faster whisper
+faster-whisper
+# You might also need PyTorch or TensorFlow if faster-whisper requires it for your compute_type.
+# Often, installing faster-whisper pulls the necessary dependencies automatically.
+# Check faster-whisper documentation for specific hardware/OS requirements.
 # For real VTT input (not implemented in this prototype): google-cloud-speech
 # For real VTT input (not implemented in this prototype): PyAudio # Or similar for audio capture
