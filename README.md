@@ -39,4 +39,6 @@ This project is a 48-hour prototype challenge to build a healthcare translation 
 - **Custom JS Communication:** `streamlit.components.v1`
 
 ---
+# Demo Link: https://drive.google.com/file/d/1KZ6-sJRYXjGev7NeSQBNlV4cH1o72-qM/view?usp=sharing
+# Pdf Link : https://drive.google.com/file/d/1j_4EQY6IQFEUpxycb_6q_4yW_CLoe8dr/view?usp=sharing
 
